@@ -5,7 +5,7 @@
 I'm Nupur from Canada. With over 6 years of dynamic experience, I'm your go-to expert for unraveling complex business challenges using the art of Data Analytics, Business Intelligence, and Big Data Engineering. My passion lies in harnessing data's power to craft innovative solutions.
 
 ## Skills and Experience: 
-* Data Engineering : ETL / Azure synapse Analytics / Spark SQL / PySpark / DataBricks / Azure Data Factory (ADF) / Azure Devops
+* Data Engineering : ETL / Azure synapse Analytics / Spark SQL / PySpark / DataBricks / Azure Data Factory (ADF) / Azure Devops / Git
 * Data Analysis : Power BI / Python / EDA / Excel / SQL
 
 
